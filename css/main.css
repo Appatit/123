@@ -1,0 +1,14 @@
+body {
+  background-color: #c4f3d7;
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  background-color: #b90101;
+}
+
+.header-contact {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #814cbb;
+}
